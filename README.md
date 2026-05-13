@@ -13,7 +13,6 @@
 💻 Experienced with C programming  
 📚 Currently learning Java and SQL databases  
 🌐 Interested in Backend and Web Development  
-🎮 Passionate about videogames and software development  
 
 ---
 
