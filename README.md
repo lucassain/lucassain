@@ -32,12 +32,6 @@
 
 ## 🎮 CodePlay Store
 
-</div>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/77291118-4225-4f3d-99e0-5d5dcbb0d09f" width="650">
-</p>
-
 A virtual videogame store developed in C as the final project for Programming I.
 
 CodePlay Store simulates a complete digital game marketplace with support for users, companies and administrators, featuring authentication systems, dynamic catalogs, transaction management and persistent file storage.
@@ -91,16 +85,21 @@ CodePlay Store simulates a complete digital game marketplace with support for us
 
 ---
 
-
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucassain&show_icons=true&theme=tokyonight" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassain&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucassain&layout=compact&theme=tokyonight" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lucassain&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -131,9 +130,3 @@ CodePlay Store simulates a complete digital game marketplace with support for us
 ---
 
 <div align="center">
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=lucassain&color=blueviolet)
-
-</div>
