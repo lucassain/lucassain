@@ -88,9 +88,9 @@ CodePlay Store simulates a complete digital game marketplace with support for us
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassain&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucassain&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucassain&layout=donut&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,16 +100,6 @@ CodePlay Store simulates a complete digital game marketplace with support for us
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lucassain&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucassain&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
